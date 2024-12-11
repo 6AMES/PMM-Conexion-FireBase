@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "538006861412",
+    "firebase_url": "https://di-conexion-firebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "di-conexion-firebase",
+    "storage_bucket": "di-conexion-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538006861412:android:f1be007c188d4b8fab5171",
+        "android_client_info": {
+          "package_name": "com.example.pmm_conexion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyGYFF1LipdlN89mJunoQytA3aCDD6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
